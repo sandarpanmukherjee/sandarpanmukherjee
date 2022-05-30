@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slashragnarok
+- 👋 Hi, I’m @sandarpanmukherjee
 - 👀 I’m interested in web development, machine learning and data science
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
